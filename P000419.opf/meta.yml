@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG21818
   title: ནག་རྩིས་རྡེལ་འགྲེམ་འབྲས་བཤད།
-  volume: ''
+  volume:
+    edb70f04df1243c2a9898a88fb476121:
+      image_group_id: I1KG21886
+      title: Volume 1 of nag rtsis rdel 'grem 'bras bshad/
+      volume_number: 1
+      total_pages: 200
   author: ''
+ebook_metadata:
+  title: ནག་རྩིས་རྡེལ་འགྲེམ་འབྲས་བཤད།
+  author: ''
+  sku: P000419
+  cover: cover.jpg
+  layers:
+  - pagination
